@@ -31,8 +31,9 @@ Explore our official documentation, interactive playground, and extensive exampl
 
 ### 📚 Documentation & Tutorials
 
-* **[`Landing Site`](https://github.com/react-chatbotify/gallery-website)** – Access everything from here!
-* **[`Library Documentation`](https://github.com/react-chatbotify/core-library-documentation)** – Official documentation website source code, including guides, API references, and interactive examples.
+* **[`Landing Site`](https://react-chatbotify.com)** – Access everything from here!
+* **[`Library Documentation`](https://react-chatbotify.com/docs)** – Official documentation website source code, including guides, API references, and interactive examples.
+* **[`YouTube Tutorials`](https://www.youtube.com/@react-chatbotify)** – Official YouTube channel containing hands-on tutorials, concepts sharing and deep dives into architecture & design of the project!
 
 ### 🔌 Plugins & Themes
 
